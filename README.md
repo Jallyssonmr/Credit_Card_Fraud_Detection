@@ -1,9 +1,9 @@
-# Desafio_serasa_experian
+## Desafio_serasa_experian
 :credit_card: Desafio do Kaggle - credit_card_fraud
 
 https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-## Algoritmo de *Machine Learning*
+### Algoritmo de *Machine Learning*
 
 * KNN
 
